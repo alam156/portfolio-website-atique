@@ -8,30 +8,30 @@ const userData = {
   address: "Chittagong, Bangladesh.",
   projects: [
     {
-      title: "Varnish Cache System",
+      title: "Comparison of accuracy of Rapid Onsite Evaluation of water",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
-      text: "A website that i have developed using Java, Spring Boot and react.A website that i have developed using Java, Spring Boot and react."
+      text: "Comparison of accuracy of Rapid Onsite Evaluation of water and sanitation with previously installed water and sanitation system in a Forcibly Displaced Myanmar Nationals and Camp setting in Cox’s Bazaar"
 
     },
     {
-      title: "CI/CD pipeline implementation",
+      title: "Evaluating the scale up of the Oxfam Handwashing Station for COVID-19 response in 3 Countries.",
       link: "https://placeholdertech.in",
       imgUrl: "/placeholdertech.png",
-      text: "A website that i have developed using Java, Spring Boot and react"
+      text: "Evaluating the scale up of the Oxfam Handwashing Station for COVID-19 response in 3 Countries."
     },
     {
-      title: "Varnish Cache System",
+      title: "Chemical contamination of water and its possible implications for aquatic wildlife and human health",
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
-      text: "A website that i have developed using Java, Spring Boot and react.A website that i have developed using Java, Spring Boot and react."
+      text: "Chemical contamination of water and its possible implications for aquatic wildlife and human health."
 
     },
     {
-      title: "CI/CD pipeline implementation",
+      title: "Survey of sewage and other contaminated surface wate",
       link: "https://placeholdertech.in",
       imgUrl: "/placeholdertech.png",
-      text: "A website that i have developed using Java, Spring Boot and react"
+      text: "Survey of sewage and other contaminated surface water sources for the presence of SARS-CoV-2 in and around Dhaka city"
     }
     // {
     //   title: "Portfolio",
