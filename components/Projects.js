@@ -29,7 +29,6 @@ export default function Projects() {
 
 const ProjectCard = ({ title, link, imgUrl, text, number }) => {
   return (
-    <a href={link} className="w-full block shadow-2xl">
       <div className="relative">
 
         <div className="h-72 object-cover">
@@ -58,6 +57,5 @@ const ProjectCard = ({ title, link, imgUrl, text, number }) => {
 
 
       </div>
-    </a>
   );
 };

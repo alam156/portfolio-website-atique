@@ -77,6 +77,24 @@ const userData = {
     currentProject: "",
     currentProjectUrl: "",
   },
+  education: [
+    {
+      title: "Msc. In Genetic Engineering and Biotechnology",
+      company: "University of Chittagong",
+      year: "2011",
+      endyear: "2016",
+      companyLink: "https://www.icddrb.org/",
+      desc: "Contributed in different research project which are aligned with icddr'b.",
+    },
+    {
+      title: "Bsc. In Genetic Engineering and Biotechnology",
+      company: "University of Chittagong",
+      year: "2016",
+      endyear: "2027",
+      companyLink: "https://www.icddrb.org/",
+      desc: "Contributed in different research project which are aligned with icddr'b.",
+    }
+    ],
   experience: [
     {
       title: "Senior Research Officer",
