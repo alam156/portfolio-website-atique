@@ -141,7 +141,7 @@ export default function AboutMe() {
             </div>
           </div>
           {/* Text area */}
-          <div className="col-span-1 md:col-span-2">
+          {/*<div className="col-span-1 md:col-span-2">
             {userData.about.description?.map((desc, idx) => (
               <p
                 key={idx}
@@ -156,11 +156,11 @@ export default function AboutMe() {
             </h1>
             <div className="flex flex-row flex-wrap mt-8">
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+                src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+                src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -204,7 +204,7 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>
