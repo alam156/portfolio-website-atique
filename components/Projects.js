@@ -18,6 +18,7 @@ export default function Projects() {
               title={proj.title}
               link={proj.link}
               imgUrl={proj.imgUrl}
+              text = {proj.text}
               number={`${idx + 1}`}
             />
           ))}
