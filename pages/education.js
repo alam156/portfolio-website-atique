@@ -5,7 +5,7 @@ import Education from "@components/Education";
 
 export default function experience() {
     return (
-        <ContainerBlock title="Education - Muhammad Ahad Ul Alam">
+        <ContainerBlock title="Education - Muhammad Atique Ul Alam">
             <Education />
         </ContainerBlock>
     );
