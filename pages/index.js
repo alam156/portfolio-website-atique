@@ -19,7 +19,7 @@ export default function Home({ repositories }) {
       <br/>
       <br/>
       <br/>
-      <LatestCode repositories={repositories} />
+      {/*<LatestCode repositories={repositories} />*/}
     </ContainerBlock>
   );
 }
