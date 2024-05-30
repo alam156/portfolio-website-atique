@@ -84,7 +84,7 @@ const userData = {
       year: "2011",
       endyear: "2016",
       companyLink: "https://www.icddrb.org/",
-      desc: "Contributed in different research project which are aligned with icddr'b.",
+      desc: "CGPA : 3.75",
     },
     {
       title: "Bsc. In Genetic Engineering and Biotechnology",
@@ -92,7 +92,7 @@ const userData = {
       year: "2016",
       endyear: "2027",
       companyLink: "https://www.icddrb.org/",
-      desc: "Contributed in different research project which are aligned with icddr'b.",
+      desc: "CGPA : 3.67",
     }
     ],
   experience: [
