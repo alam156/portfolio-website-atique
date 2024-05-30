@@ -49,9 +49,15 @@ const ProjectCard = ({ title, link, imgUrl, text, number }) => {
           <div className="absolute top-10 left-30 list-decimal text-black-50 font-bold text-sm">
               <br/>
               <br/>
-              <h4>
-                  {text}
-              </h4>
+              <div>
+                  <h4>
+                      <br/>
+                      {text}
+                  </h4>
+                  <br/>
+                  <Link href={link} style={{color: "blue"}}>Find the paper</Link>
+              </div>
+
               <br/>
               <br/>
           </div>
